@@ -1,6 +1,6 @@
 # validacion_form
 
-A new Flutter project.
+Proyecto que implementa la validación de formularios mediante la propiedad validator a través del manejo de los forms
 
 ## Getting Started
 
